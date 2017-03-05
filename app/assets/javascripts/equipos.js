@@ -1,0 +1,2 @@
+jQuery -> 
+	$('#equipos').dataTable()
